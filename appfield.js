@@ -6,7 +6,7 @@
  * @description
  * # appfield
  */
-angular.module('sampleApp')
+angular.module('appfield')
   .directive('appfield', function () {
     return {
       template: '<label>{{ field.displayName }}</label><br><input type="{{ field.type }}" name="{{ field.name }}" ng-required="field.required" ng-model="inedition[field.name]" />',
