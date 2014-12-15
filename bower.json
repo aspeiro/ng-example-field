@@ -1,0 +1,24 @@
+{
+  "name": "ng-example-field",
+  "version": "1.0",
+  "homepage": "https://github.com/aspeiro/ng-example-field",
+  "authors": [
+    "Misael <misabitencourt@gmail.com>"
+  ],
+  "description": "Angular field example",
+  "main": "appfield.js",
+  "keywords": [
+    "angular",
+    "field",
+    "input"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
